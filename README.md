@@ -1,10 +1,10 @@
 # KeeCrack - KeePassXC Database Brute Forcer
 KeePassXC is a safe way to store your login credentials. However, just because its a "safe" way to store your login credentials, doesn't mean you should use a weak database password to store your login credentials. 
 
-Using a weak password would result in attackers having access to your login credentials. I made this script as a **proof of concept and for awareness**. 
+Using a weak password may result in attackers having access to your login credentials. I made this script as a **proof of concept and for awareness**. 
 
 ## How?
-- Your database file might be leaked to others if you run any ransomware on your pc. 
+- Your database file might be leaked to others if you run malware on your pc. 
 - Your database file might be leaked to others if you send it to others.
 
 ## Social
