@@ -17,7 +17,7 @@ Using a weak password may result in attackers having access to your login creden
 2. Move any existing wordlists to the "list" folder
 ### Installation
 ```console
-git clone 
+git clone https://github.com/r4shsec/KeeCrack.git
 cd KeeCrack
 pip install -r requirements.txt
 python app.py
