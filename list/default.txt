@@ -1,0 +1,6 @@
+password
+admin
+adminstrator
+root
+toor
+123456
